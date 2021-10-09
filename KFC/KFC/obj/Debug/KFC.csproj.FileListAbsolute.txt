@@ -1,0 +1,11 @@
+C:\Users\Developer\source\repos\KFC\KFC\bin\Debug\KFC.exe.config
+C:\Users\Developer\source\repos\KFC\KFC\bin\Debug\KFC.exe
+C:\Users\Developer\source\repos\KFC\KFC\bin\Debug\KFC.pdb
+C:\Users\Developer\source\repos\KFC\KFC\obj\Debug\KFC.csproj.AssemblyReference.cache
+C:\Users\Developer\source\repos\KFC\KFC\obj\Debug\KFC.Form1.resources
+C:\Users\Developer\source\repos\KFC\KFC\obj\Debug\KFC.Properties.Resources.resources
+C:\Users\Developer\source\repos\KFC\KFC\obj\Debug\KFC.csproj.GenerateResource.cache
+C:\Users\Developer\source\repos\KFC\KFC\obj\Debug\KFC.csproj.CoreCompileInputs.cache
+C:\Users\Developer\source\repos\KFC\KFC\obj\Debug\KFC.exe
+C:\Users\Developer\source\repos\KFC\KFC\obj\Debug\KFC.pdb
+C:\Users\Developer\source\repos\KFC\KFC\obj\Debug\KFC.Form2.resources
